@@ -1,0 +1,2 @@
+CustomerID: 6Ma	Name of Customer: Tanishk	Date of Joining: 29/03/2024	Phone Number: 6204860160	Address: Gaya, Bihar	Gender: Male	Age: 19	Height: 1.83 m	Weight: 87.80 kgs	BMI: 26.22	Package: 20 Days Pakage	Slot Batch Number: 2
+

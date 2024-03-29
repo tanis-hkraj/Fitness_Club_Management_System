@@ -1,0 +1,12 @@
+CustomerID: 7Ma
+Name of Customer: Tanishk Raj
+Date of Joining: 02/05/2005
+Phone Number: 6204862976
+Address: Gaya, Bihar
+Gender: Male
+Age: 19
+Height: 1.82 m
+Weight: 87.10 kgs
+BMI: 26.30
+Pakage: 10 Days Pakage
+

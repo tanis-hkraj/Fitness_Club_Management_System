@@ -1,0 +1,18 @@
+
+CustomerID: Ta11Ma	Name of Customer: Tanishk Raj	Date of Joining: 05/12/2022	Phone Number: 6204860311	Address: Gaya, Bihar	Gender: Male	Age: 19	Height: 1.81 m	Weight: 82.40 kgs	BMI: 25.15	Pakage: 10 Days Pakage	Slot Batch Number: 2
+
+
+CustomerID: Na91Ma	Name of Customer: Nabajit Pahadsingh	Date of Joining: 05/08/2021	Phone Number: 8956754891	Address: Bhubaneshwar, Odisha	Gender: Male	Age: 21	Height: 1.65 m	Weight: 75.40 kgs	BMI: 27.70	Pakage: 20 Days Pakage	Slot Batch Number: 4
+
+CustomerID: Sh26Fe	Name of Customer: Shruti	Date of Joining: 05/09/2020	Phone Number: 6954878526	Address: Jammu, J&K	Gender: Female	Age: 17	Height: 1.56 m	Weight: 42.80 kgs	BMI: 17.59	Pakage: Anual Pakage	Slot Batch Number: 5
+
+CustomerID: Ma15Ma	Name of Customer: Manjeet	Date of Joining: 21/02/2023	Phone Number: 6589742315	Address: Aara, Bihar	Gender: Male	Age: 19	Height: 1.72 m	Weight: 72.60 kgs	BMI: 24.54	Pakage: 20 Days Pakage	Slot Batch Number: 6
+
+CustomerID: Sw45Fe	Name of Customer: Swarna	Date of Joining: 10/02/2023	Phone Number: 6587942145	Address: Lucknow, UP	Gender: Female	Age: 20	Height: 1.70 m	Weight: 40.50 kgs	BMI: 14.01	Pakage: 10 Days Pakage	Slot Batch Number: 10
+
+CustomerID: Ma45Fe	Name of Customer: Mantasha	Date of Joining: 02/07/2021	Phone Number: 6895657845	Address: Patna, Bihar	Gender: Female	Age: 19	Height: 1.73 m	Weight: 70.90 kgs	BMI: 23.69	Pakage: Anual Pakage	Slot Batch Number: 8
+
+
+
+CustomerID: Oj57Fe	Name of Customer: Ojaswi	Date of Joining: 05/04/2023	Phone Number: 9856742457	Address: Varanasi, UP	Gender: Female	Age: 19	Height: 1.56 m	Weight: 48.80 kgs	BMI: 20.05	Package: 10 Days Pakage	Slot Batch Number: 2
+

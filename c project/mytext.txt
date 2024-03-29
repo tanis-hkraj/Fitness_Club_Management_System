@@ -1,0 +1,36 @@
+Name of Customer: Tanishk Raj
+Phone Number: 6204860311
+Address: Gaya, Bihar
+Gender: Male
+Age: 19
+Height: 1.81 m
+Weight: 83.40 kgs
+CustomerID: Ta11Ma
+
+Name of Customer: Ranveer Kumar
+Phone Number: 9304119624
+Address: Gaya, Bihar
+Gender: Male
+Age: 43
+Height: 1.75 m
+Weight: 87.60 kgs
+CustomerID: Ra24Ma
+
+Name of Customer: Shruti
+Phone Number: 9304457846
+Address: Gaya, Bihar
+Gender: Female
+Age: 43
+Height: 1.65 m
+Weight: 75.10 kgs
+CustomerID: Sh46Fe
+
+Name of Customer: Harsh Kumar
+Phone Number: 7845123265
+Address: Gya, Bihar
+Gender: Male
+Age: 19
+Height: 1.78 m
+Weight: 54.20 kgs
+CustomerID: Ha65Ma
+
